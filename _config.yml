@@ -1,4 +1,10 @@
 theme: jekyll-theme-tactile
 title: R.J. Graham
 description: Investigating the habitability of Earth & Earth-like planets
-headers: {Home, About}
+collections:
+  About:
+    output: true
+    permalink: /:collection/:path/
+  Research:
+    output: true
+    permalink: /:collection/:path/

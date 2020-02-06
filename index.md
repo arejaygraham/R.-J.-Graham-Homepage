@@ -1,5 +1,5 @@
 Hello, worlds
 
-*[Home](/)
+-[Home](/)
 
-*[About](/About)
+-[About](/About)

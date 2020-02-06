@@ -1,3 +1,4 @@
 Hello world
-*[Home]("/")
-*[About]("/About")
+
+*[Home](/)
+*[About](/About)
